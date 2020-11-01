@@ -30,18 +30,12 @@
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
   <!-- Twitter cards -->
-  <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site"    content="@{{ site.twitter_username }}"/>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site"    content="@yenceesanjeev"/>
     <meta name="twitter:title"   content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
     <meta name="twitter:description" content="{{ page.description }}" />
+    <meta name="twitter:image" content="/images/cover-img.png"/>
 
-     {% if page.image %}
-
-     <meta name="twitter:image" content="/images/cover-img.png"/>
-     {% else %}
-
-     <meta name="twitter:image" content="/images/cover-img.png"/>
-     {% endif %}
      <!-- end of Twitter cards -->
 
      <!-- Linkedin -->
