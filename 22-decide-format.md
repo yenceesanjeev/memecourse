@@ -52,7 +52,7 @@ This has grown in popularity over the recent times thanks to platforms like Twit
 
 The reactions and expressions and the action itself can be easily conveyed through a GIF without the hassle of turning on the audio for the audience. GIFs are also far more accurate in conveying the reaction than an image
 
-### 🤔When do you choose image memes?
+### 🤔When do you choose GIF memes?
 
 #### When the one image cannot convey the reaction
 Sometimes, you need a GIF because the image is too less to convey what you're trying to say.
@@ -94,7 +94,7 @@ Video memes will work beautifully if the dialogue fits perfectly, focus on perfe
 Here the dialogue fits perfectly in the situation, hence a good candidate for video memes
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When people mark you as optional in meeting invites <a href="https://t.co/58xku7xpM5">pic.twitter.com/58xku7xpM5</a></p>&mdash; Sanjeev NC (@yenceesanjeev) <a href="https://twitter.com/yenceesanjeev/status/1297778619511713798?ref_src=twsrc%5Etfw">August 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#### When the dialogue is well known
+#### When the dialogue is not well known
 You might come across a scene that's not super popular and hence an image or GIF cannot convey the story. In times like this, you might have to choose a video meme.
 
 If you've picked your template from unpopular sources like interviews, you definitely need video memes until that template becomes popular.
