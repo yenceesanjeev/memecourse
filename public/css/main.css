@@ -25,3 +25,15 @@ margin-left: 40px;
   margin: 4px 2px;
   cursor: pointer;
 }
+
+.share-btn 
+  {
+      float: right;
+      font-size: large;
+      border-style: solid;
+      border-radius: 10px;
+      padding: 5px;
+      /* background-color: black; */
+      /* color: white; */
+      border-width: thin;
+  }
