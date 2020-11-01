@@ -85,7 +85,7 @@ In the below example, the dialogue in the audio doesn't fit our concept and henc
 ### Video memes
 Something that's growing in popularity over the last few years thanks to better internet, powerful smartphones and fully capable mobile video editors
 
-### 🤔When do you choose image memes?
+### 🤔When do you choose video memes?
 
 #### When the dialogue fits **perfectly** to your situation.
 Video memes will work beautifully if the dialogue fits perfectly, focus on perfectly.
