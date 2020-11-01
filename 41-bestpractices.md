@@ -35,4 +35,4 @@ Memes are supposed to be funny. If I want to preach or educate, I will write a b
 
 Example - Soothu Kavvum
 
-<a href = '/42-meme-ethics/' class ='nav-button'> Next Section </a>
+<a href = '/42-meme-ethics/' class ='nav-button'> 4.2 Meme Ethics </a>

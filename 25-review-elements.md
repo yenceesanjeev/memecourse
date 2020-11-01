@@ -28,5 +28,8 @@ Before you start distributing, run your meme against this checklist.
 - Does the copy connect well with the template?
 - Is there a different template that has a better connect?
 
+That brings us to the end of this section. Onto distribution.
+(Margabanthu, modhal sandhu. Kavithai madhiri illa?)
 
-<a href = '/30-distribution/' class ='nav-button'> Next Section </a>
+
+<a href = '/30-distribution/' class ='nav-button'> 3.0 Distribution </a>

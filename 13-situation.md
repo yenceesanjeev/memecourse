@@ -20,4 +20,4 @@ Example
 Without a situation, you would have no meme. In this case, the situations is that my life neither has happiness nor money
 ![](/images/anatomy/situation.png)
 
-<a href = '/14-story/' class ='nav-button'> Next Section </a>
+<a href = '/14-story/' class ='nav-button'> 1.4 Story </a>

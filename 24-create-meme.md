@@ -80,4 +80,4 @@ Bonus Content: Here's a specific video tutorial on creating video memes
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A0XaXEZgk5o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<a href = '/25-review-elements/' class ='nav-button'> Next Section </a>
+<a href = '/25-review-elements/' class ='nav-button'> 2.5 Review Elements </a>

@@ -41,4 +41,4 @@ You can use this for the same kind of memes you would post in a Twitter thread
 
 Instagram is also your best meme repository. Over time, memes get lost on Twitter. But Instagram's feed ensures that all your memes are preserved over time.
 
-<a href = '/40-ethics/' class ='nav-button'> Next Section </a>
+<a href = '/40-ethics/' class ='nav-button'> 4. Meme Best Practices </a>

@@ -61,4 +61,4 @@ The formatting options are exactly the same here but some general practices to f
 
 
 
-<a href = '/32-Instagram/' class ='nav-button'> Next Section </a>
+<a href = '/32-Instagram/' class ='nav-button'> 3.2 Instagram </a>

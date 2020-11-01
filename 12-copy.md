@@ -17,4 +17,4 @@ When you look at a meme, you're not laughing because of the template. You're lau
 In the below example, the copy on the right will not invoke the same level of laughter as the copy on the left despite it conveying similar messages.
 ![](/images/anatomy/copy.png)
 
-<a href = '/13-situation/' class ='nav-button'> Next Section </a>
+<a href = '/13-situation/' class ='nav-button'> 1.3 Situation </a>

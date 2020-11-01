@@ -35,4 +35,4 @@ However, it's becoming increasingly difficult to source HD templates on YouTube 
 
 Pro Tip: If you're really serious about meme creation, I would recommend investing in a VPN software. It lets you access pirated websites like einthusan and tamilyogi. That makes the entire process of sourcing templates very smooth because you always have access to HD templates and you don't have to waste time in searching
 
-<a href = '/24-create-meme/' class ='nav-button'> Next Section </a>
+<a href = '/24-create-meme/' class ='nav-button'> 2.4 Create Meme </a>

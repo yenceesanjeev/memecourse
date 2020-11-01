@@ -19,4 +19,4 @@ If your copy doesn't reflect that, then the connection doesn't happen and the me
 Example
 ![](/images/anatomy/connection.png)
 
-<a href = '/20-creation/' class ='nav-button'> Next Section </a>
+<a href = '/20-creation/' class ='nav-button'> 2. Meme Creation </a>

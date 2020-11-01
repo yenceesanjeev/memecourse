@@ -17,4 +17,4 @@ A common mistake in the meme world is to find random Vadivelu images and use tha
 From our earlier example, if you tried to use the template on the left - it won't work. It's got nothing do with what we're trying to convey.
 ![](/images/anatomy/template.png)
 
-<a href = '/12-copy/' class ='nav-button'> Next Section </a>
+<a href = '/12-copy/' class ='nav-button'> 1.2 Copy </a>

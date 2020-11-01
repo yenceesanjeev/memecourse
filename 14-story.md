@@ -20,4 +20,4 @@ In this scenario, the story in both situations is that happiness and money are m
 The first case won't work because the story in that meme signals that happiness and money are being offered to you, which is not the case
 ![](/images/anatomy/story.png)
 
-<a href = '/15-connection/' class ='nav-button'> Next Section </a>
+<a href = '/15-connection/' class ='nav-button'> 1.5 Connection </a>

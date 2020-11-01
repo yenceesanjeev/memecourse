@@ -6,10 +6,10 @@ plugins:
 
 # Setup
 title:               Tamil Meme Guide
-tagline:             'A meme course for Tamil Meme nation'
-description:         'Table of Contents'
+tagline:             'A comprehensive guide on Tamil Meme Creation with examples'
+description:         'A comprehensive guide on Tamil Meme Creation with examples'
 url:                 https://lanyon.netlify.com
-baseurl:             ''
+baseurl:             'https://memecreators.club/'
 
 # About/contact
 author:
