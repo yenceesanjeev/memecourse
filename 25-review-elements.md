@@ -4,29 +4,29 @@ title: 2.5 Review Elements
 ---
 ---
 
+Before you start distributing, run your meme against this checklist.
+
 ### Template
 - Is my template relatable?
-- Is my template famous enough?
-- Is my template offensive?
+- Is there a better quality template available?
+- Is there anything offensive/obscene in my template?
 
 ### Copy
-- Is my copy understandable?
+- Can my copy be shorter?
 - Can I remove more words from my copy?
-- Can I make my copy scrappier?
 - Is my copy readable?
 - Are the fonts legible?
 
-### Concept
-- Is my concept popular enough for the audience?
-- Is my concept reltable enough for the audience?
-- Am I offending someone by picking this concept?
+### Situation
+- Is my concept relatable enough for the audience?
+- Am I offending someone by picking this situation?
 
-### Essence
-- Does the essence capture the concept?
-- Is the essence of the meme the same as the essence of the situation?
+### Story
+- Is the story of the template the same as the story of the situation?
 
 ### Connection
 - Does the copy connect well with the template?
+- Is there a different template that has a better connect?
 
 
 <a href = '/30-distribution/' class ='nav-button'> Next Section </a>
