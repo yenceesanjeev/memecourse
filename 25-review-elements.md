@@ -32,4 +32,4 @@ That brings us to the end of this section. Onto distribution.
 (Margabanthu, modhal sandhu. Kavithai madhiri illa?)
 
 
-<a href = '/30-distribution/' class ='nav-button'> 3.0 Distribution </a>
+<a href = '/30-distribution/' class ='nav-button'> 3.0 Distribution -></a>

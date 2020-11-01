@@ -46,4 +46,4 @@ A meme is funny when it's got the right balance in all these elements. It's like
 
 There are always exceptions.
 
-<a href = '/11-template/' class ='nav-button'> 1.1 Template </a>
+<a href = '/11-template/' class ='nav-button'> 1.1 Template -> </a>

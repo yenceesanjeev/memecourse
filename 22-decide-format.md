@@ -145,4 +145,4 @@ By simply swapping the audio of the scene with a different dialogue or a song, y
 
 
 
-<a href = '/23-source-template/' class ='nav-button'> 2.3 Source Template </a>
+<a href = '/23-source-template/' class ='nav-button'> 2.3 Source Template -></a>

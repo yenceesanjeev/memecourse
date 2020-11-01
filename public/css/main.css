@@ -13,8 +13,7 @@ margin-left: 40px;
 }
 
 .nav-button {
-  position: absolute;
-  right:30px;
+  float:right;
   border: solid;
   border-radius: 20px;
   color: black;

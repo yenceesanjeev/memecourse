@@ -42,4 +42,4 @@ Once your brain is trained, there's no going back.
 
 The only rule while discovering situations is this — it should be known and relatable enough. If you're going to create a meme about something that only you have context about, no one's going to find that funny.
 
-<a href = '/22-decide-format/' class ='nav-button'> 2.2 Decide Format </a>
+<a href = '/22-decide-format/' class ='nav-button'> 2.2 Decide Format -> </a>

@@ -19,4 +19,4 @@ I look at memes as commentary to public events. While I'm comfortable poking fun
 ## Anything that you don't know about
 I generally stay away from topics I know little about. Just because everyone's talking about it, you don't have to jump on the bandwagon immediately.
 
-<a href = '/final/' class ='nav-button'> Before You Go </a>
+<a href = '/final/' class ='nav-button'> Before You Go -> </a>

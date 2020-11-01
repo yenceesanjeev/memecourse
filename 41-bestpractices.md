@@ -33,6 +33,8 @@ Oh, even if you add watermarks there are harmful internet people who will recrea
 ## Don't preach or educate
 Memes are supposed to be funny. If I want to preach or educate, I will write a blog post instead. It's not to say that you can't learn a thing or two from memes, you can but that's not its primary purpose.
 
-Example - Soothu Kavvum
+Bonus Content
 
-<a href = '/42-meme-ethics/' class ='nav-button'> 4.2 Meme Ethics </a>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“5 Rules of Meme Creation” x “Kidnapping 5 vithigal”<br><br>Meme dub video. Realised I never shared this on Twitter <a href="https://t.co/pOkucuc4hm">pic.twitter.com/pOkucuc4hm</a></p>&mdash; Sanjeev NC (@yenceesanjeev) <a href="https://twitter.com/yenceesanjeev/status/1280041751051304960?ref_src=twsrc%5Etfw">July 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a href = '/42-meme-ethics/' class ='nav-button'> 4.2 Meme Ethics -> </a>

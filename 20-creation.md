@@ -13,4 +13,4 @@ A meme creation process typically involves 5 steps
 4. Creating the meme
 5. Reviewing the elements
 
-<a href = '/21-find-concept/' class ='nav-button'> 2.1 Find Situation </a>
+<a href = '/21-find-concept/' class ='nav-button'> 2.1 Find Situation -> </a>

@@ -40,4 +40,4 @@ Use the sidebar on the right to navigate between sections and a table of content
 
 </div>
 
-<a href = '/11-template/' class ='nav-button'> Next Section </a>
+<a href = '/10-anatomy/' class ='nav-button'> Start Learning -> </a>
