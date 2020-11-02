@@ -17,7 +17,7 @@ You could make a meme out of situations in your own life.
 Example
 ![](/images/creation/everyday-situation.png)
 
-## Pubic situations
+## Public situations
 You could also use memes as a way to comment on any public situations that are happening. IPL matches, Big Boss, News, Politics. All of these are candidates for memes
 
 Note: Tread with caution. You'll find that it's very easy to offend people.
