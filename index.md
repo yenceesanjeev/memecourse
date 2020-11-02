@@ -12,7 +12,7 @@ While the concepts discussed here are universal, this guide is focused on the Ta
 
 That's all, you can start exploring it right away.
 
-Use the sidebar on the right to navigate between sections and a table of contents is given below for your convenience
+Use the sidebar on the left to navigate between sections and a table of contents is given below for your convenience
 
 # Table Of Contents
 <div class = "index">
